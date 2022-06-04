@@ -1,0 +1,67 @@
+<!DOCTYPE HTML>
+<html>
+  <head>
+    <meta name="viewport" content="with=device-width,initial-scale=1.0">
+    <meta name="description" content="This is a School project">
+    <title>My Hero Of Light</title>
+	<style>
+	*{margin:0;padding:0}
+	header{height:60px;background:#262626; padding:0;}
+	.logo{widht:30%;float:left;color:#fff;font-wight:bold; text-transform:uppercase;line-height:60px; font-size:35px;font-family:sans-serif;}
+	nav{widht:68%;float:right;}
+	nav ul{list-style:none; float:middle;}
+	nav ul li {display: inline-block;}
+	nav ul li a{text0decoration: none; color#fff; font-family:sans serif; font-weght:bold; margin:0 10px; line height:60px; text-transform:uppercase;}
+	.banner{height 100%;}
+	.banner img {widht:100%;height:90vh;}
+	.content{padding:5%;}
+	.content p{font-size: 18px;line-height:1.7; font-family:sans-serif; margin-bottom:25px;}
+	footer{background:#000;color:#fff;padding;15px 50px; text-align:bottom;}
+	</style>
+  </head>
+  <body>
+    <header>
+      <div class="logo">Blog</div>
+        <nav>
+		 <ul>
+		  <li><a href="https://www.accuweather.com/en/id/jakarta/208971/weather-forecast/208971">Weather</a></li>
+		  <li><a href="https://ipeka.org">School</a></li>
+		 </ul>
+		</nav>		
+    </header>
+    <div class="banner">
+	  <img src="https://images.unsplash.com/photo-1552232915-d0b45d6c80a3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1332&q=80" alt="some random sunset that i thought would look good" style="width:1585px;height:300px;">
+	</div>
+	<div class="content">	
+	  <H1>
+	    <big>
+		My Hero Of Light
+		</big>
+	  </h1>	
+      <h3>
+	  made by Carlson
+	  </h3>
+	  <hr/>
+      <p>
+	  Basuki Tjahaja Purnama otherwise known as Ahok was born in Bangka Belitung, on the 1966 June the 29th. His father's name is Indra Tjahaja Purnama and his mother's name is Buniarti Ningsing.Botb of His prents were chinese. Basuki spent his time when he was a kid at the Gantung village, Gantung District, East Belitung Regency, until he finally finished junior high school. After he finished junior high school, he continued his education in Jakarta from high school to university.	  
+      </p>
+	  <img src="https://awsimages.detik.net.id/community/media/visual/2018/08/16/4a97d933-c234-41f1-90d2-035b44927488_169.jpeg?w=700&q=90" width="450" height="250" align="right">
+	  <p>
+	  Basuki majored in geological Engineering, at Trisakti University and graduated in 1989. After taking his education in Jakarta, he went back to his hometown and starto   wworkj. Buut he only lasted for 2 years in the mining world, he then went back to his education by taking a master's program in financial management in Management Prasetiya Mulya Jakarta University in 1992.
+	  </p>
+	  <p>
+	  His new carrier as a politician started with him joining the PPIB(Partai Perhimpunan Indonesia Baru). at the 2004 election he ran a campaing to be a member of the Parliment. He was chosen to be a memeber of the DPRD in the Belitung Timur District at 2004 to 2009. in 2005-2010 Basuki then served as a Governor at Belitung Timur.
+	  </p>
+	  <p>
+	  In 2012 Basuki served as a Deputy Governor at Jakarta. at Novermber the 14th 2014, Basuki became the Governor of Jakarta by taking over the spot of Joko Widodo who recently became the new President.On his carrier as the Governor of Jakarta, Basuki has sparked various kinds of controversies, mostly due to his statements. Some of the controversies were the Sumber Waras Hospital land controversy, The publishers at Kalijodo, accusations of branding residents as "communists", the usage orf bad words, and His statement of "You all are being lied by Surah Al-Maidah 51", or also the case of religion desecration, which triggered a strong response from the Islamic Defense Action network.
+	  </p>
+	  <p>
+	  In 2017 Mei the 9th, Basuki was sentenced to 2 years in prison by the North Jakarta District Court Judges for Blasphemy case. in 2019 January the 24th, Basuki was realeased from the prison.
+	  </p>
+	  <p>
+	  Basuki is my Hero of light. why? because he is a brave person despite being in the minority and he is a honest person. the line that inspired me was 
+	  </p>
+    </div>
+    <footer> <p>This is a simplified version of Basuki's biography. if you want to read more then please click on <a href="https://en.wikipedia.org/wiki/Basuki_Tjahaja_Purnama#Early_involvement_with_politics">this.</a></p><footer>
+  </body>
+</html>
